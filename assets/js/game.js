@@ -4,13 +4,14 @@
 // criando o tabuleiro com a princípio todas as 9 posições vazias
 
 
-let board = ['', '', '', '', '', '', '', '', ''];
+let board = ['o', 'x', 'o', '', '', '', '', '', ''];
 let playerTime = 0;
 let symbols = ['o', 'x'];
 
 
 function handleMove(position){
-    
+
+    if (board[position] == '') {
     board[position] = symbols[playerTime];
 
     if (playerTime == 0) {
@@ -19,6 +20,6 @@ function handleMove(position){
         playerTime = 0;
     }
 
+    }
+
 }
-
-
