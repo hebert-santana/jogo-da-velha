@@ -25,7 +25,7 @@ h1{
 
 }
 
-.o::after {
+.o:after {
     position: absolute;                     /* alimina a quebra da linha do quadrado */
     content: "\1F413";
     font-size: 50px;
@@ -45,7 +45,7 @@ h1{
 
 }
 
-.x::after {
+.x:after {
     position: absolute;                     
     content: "\1F43A";
     font-size: 50px;

@@ -35,7 +35,7 @@ function updateSquares() {
             let symbol = board[postion];
 
 
-            if(square != '') {
+            if(symbol != '') {
            
                 square.innerHTML = `<div class='${symbol}'></div>`
             }
