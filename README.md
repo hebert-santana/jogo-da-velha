@@ -6,6 +6,8 @@ Com esse projeto coloquei em prática alguns conceitos de HTML5, CSS e JavaScrip
 
 https://hebert-santana.github.io/jogo-da-velha/
 
-![alt text](./jogo.png)
+<a href="jhttps://hebert-santana.github.io/jogo-da-velha/">
+  <img align="center" src="jogo.png" />
+</a>
 
 
