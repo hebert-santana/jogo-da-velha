@@ -4,6 +4,7 @@
 body {
     text-align: center;
     background-color: #9FA7A9;
+    margin-top: 100px;
     
 }
 
@@ -65,6 +66,7 @@ h1{
 
 
 .btn_reiniciar {
+    margin-top: 10px;
     background: rgb(241, 85, 85);   
     border-radius: 25px;
     height: 10px;
