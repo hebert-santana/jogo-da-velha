@@ -6,8 +6,6 @@ Visa a experiência de construção de um "jogo da velha" simples sem utilizaç�
 
 Com esse projeto coloquei em prática alguns conceitos de HTML5, CSS e JavaScript.
 
-https://hebert-santana.github.io/jogo-da-velha/
-
 <hr>
 
 <h1>Demonstração</h1>
