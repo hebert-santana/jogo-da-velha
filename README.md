@@ -1,17 +1,29 @@
-# JOGO DA VELHA
+# JOGO DA VELHA (PG-Br)
+## Projeto (finalizado :white_check_mark:)
 
-Módulo do Curso de Desenvolvedor Front-End do site https://programadorbr.com/.
+Projeto desenvolvido durante módulo de curso de Desenvolvedor Front-End do curso <strong>Programador BR</strong>.
 
 Visa a experiência de construção de um "jogo da velha" simples sem utilização de bibliotecas. 
 
-Com esse projeto coloquei em prática alguns conceitos de HTML5, CSS e JavaScript.
+## 🛠️ Recursos
 
-<hr>
+* HTML
+* CSS
+* Javascript
 
-<h1>Demonstração</h1>
+## 💻 Demonstração
 
-<a href="jhttps://hebert-santana.github.io/jogo-da-velha/">
-  <img align="center" src="jogo.png" />
-</a>
+<p align="center">
+  <img src="./jogo-da-velha.gif">
+</p>
+
+<p align="center">
+<https://hebert-santana.github.io/jogo-da-velha/>
+</p>
+
+## Autor
+~~~ javascript
+Hebert Santana
+~~~
 
 
