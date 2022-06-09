@@ -17,9 +17,9 @@ Visa a experiência de construção de um "jogo da velha" simples sem utilizaç�
   <img src="./jogo-da-velha.gif">
 </p>
 
-<p align="center">
+## 🌐 Site
+
 <https://hebert-santana.github.io/jogo-da-velha/>
-</p>
 
 ## Autor
 ~~~ javascript
