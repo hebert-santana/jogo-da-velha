@@ -19,7 +19,7 @@ Visa a experiência de construção de um "jogo da velha" simples sem utilizaç�
 
 ## 🌐 Site
 
-<https://hebert-santana.github.io/jogo-da-velha/>
+<https://hebert-santana.github.io/js-jogodavelha/>
 
 ## Autor
 ~~~ javascript
